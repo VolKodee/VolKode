@@ -1,4 +1,4 @@
-# VolKode
+
 
 <div align="center">
 
@@ -30,17 +30,6 @@ En VolKode diseñamos **automatizaciones con IA** para resolver tareas repetitiv
 ![Docker](https://img.shields.io/badge/Docker-0A85ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude-0A85ED?style=for-the-badge&logo=anthropic&logoColor=white)
 
-## 📦 Instalación
-
-```bash
-git clone https://github.com/valentinawerle/VolKode.git
-cd VolKode
-```
-
-## ▶️ Uso
-
-Cada proyecto/automatización dentro de este repositorio incluye su propio instructivo de uso en su carpeta correspondiente.
-
 ## 🤝 Colaboradores
 
 Equipo VolKode.
@@ -54,9 +43,3 @@ Equipo VolKode.
 ## 📄 Licencia
 
 Todos los derechos reservados © VolKode.
-
----
-
-<div align="center">
-<sub>Tipografía de marca: Sora (variable) y Chakra Petch · Paleta: #FFFFFF · #BDBDBD · #0A85ED · #0C70EA · #0D5BE6 · #0D41E1 · #192BC2</sub>
-</div>
